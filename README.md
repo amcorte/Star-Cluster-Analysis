@@ -35,6 +35,13 @@ Open pleiades_cluster_reduction.ipynb and execute step by step:
 
 --- 
 
+## ✨ Future Enhancements
+- 🔧 Add age-fitting automation (χ² minimization)
+- 🌈 Support multiple metallicities and extinction corrections
+- 📊 Deploy an interactive dashboard (Streamlit / Plotly)
+
+--- 
+
 
 ## 🛰️ Data Resources 
 
