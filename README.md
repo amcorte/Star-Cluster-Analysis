@@ -1,5 +1,3 @@
-# Star-Cluster-Analysis
-
 # 🌌 Pleiades Cluster Reduction & Isochrone Analysis
 
 ![CMD Preview](plei_cmd.pdf)
