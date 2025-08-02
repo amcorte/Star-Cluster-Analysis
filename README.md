@@ -2,7 +2,7 @@
 
 # 🌌 Pleiades Cluster Reduction & Isochrone Analysis
 
-![CMD Preview](docs/cmd_preview.png)
+![CMD Preview](plei_cmd.pdf)
 
 ## 📘 Overview
 This project processes **Gaia DR3** data for the **Pleiades star cluster** to produce a clean dataset and build a **Color–Magnitude Diagram (CMD)**.  
@@ -31,7 +31,7 @@ Open pleiades_cluster_reduction.ipynb and execute step by step:
 
 - 1️⃣ Load Gaia DR3 data
 - 2️⃣ Filter the dataset (parallax, proper motion, RA/Dec window)
-- 3️⃣ Load an isochrone file (from PARSEC/MIST)
+- 3️⃣ Load an isochrone file (see link below)
 - 4️⃣ Plot CMD + overlay isochrone
 - 5️⃣ Annotate stellar masses
 
