@@ -1,6 +1,7 @@
 # 🌌 Pleiades Cluster Reduction & Isochrone Analysis
 
-![CMD Preview](plei_cmd.pdf)
+![CMD](plei_cmd.pdf)
+![Isochrone Fit](plei_isofit.pdf)
 
 ## 📘 Overview
 This project processes **Gaia DR3** data for the **Pleiades star cluster** to produce a clean dataset and build a **Color–Magnitude Diagram (CMD)**.  
